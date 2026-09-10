@@ -1,0 +1,11 @@
+# project related
+postgres/
+venv/
+.gradio/
+backup/
+
+# Compiled Python bytecode
+*.py[cod]
+
+# Log files
+*.log
